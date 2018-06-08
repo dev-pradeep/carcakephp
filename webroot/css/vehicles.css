@@ -1,0 +1,19 @@
+#vehicleData .btn {
+    border-radius: 22PX;
+}
+.widget-user .widget-user-header {
+    padding: 23px;
+    height: 260px;
+    border-top-right-radius: 3px;
+	border-top-left-radius: 3px;	
+}
+.backgroundimg{
+	background-repeat: no-repeat !important;
+    background-size:     cover !important;       
+    background-repeat:   no-repeat !important;
+    background-position: center center !important;
+}
+#listallreser .item:hover{
+	cursor:pointer;
+	background-color: whitesmoke;
+}

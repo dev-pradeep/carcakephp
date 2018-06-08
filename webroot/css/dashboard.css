@@ -1,0 +1,7 @@
+.info-box:hover{
+	cursor:pointer;
+}
+#listofusers .item:hover{
+	cursor:pointer;
+	background-color: whitesmoke;
+}
